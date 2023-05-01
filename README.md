@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**eliuuk/eliuuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Eric - welcome to my GitHub profile!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I'm currently a first year undergraduate Computer Science student at the University of Warwick
+- 💼 Ex-KPMG, currently working part-time as a Level 3 Support Operator at [Shockbyte](https://shockbyte.com)
+- 🎬 Current Chief Projectionist for 2023-24 at [Warwick Student Cinema](https://warwick.film)
+- 📈 Interested in financial technology and data analytics
+- ✈️ Passionate about aviation
+- 💻 Proficient in Java, JavaScript (Node.js) and Python
+- 📚 Currently learning Haskell and TypeScript
+🌐 https://ericl.uk 📫 hello@ericl.uk
